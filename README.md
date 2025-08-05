@@ -1,6 +1,7 @@
 <img width="1920" height="1010" alt="Screenshot 2025-08-06 024531" src="https://github.com/user-attachments/assets/eb5fbc52-2eb1-413e-a814-39f1814b4ad4" /><img width="1920" height="1052" alt="Screenshot 2025-08-06 024558" src="https://github.com/user-attachments/assets/5c047624-e65a-4005-bed3-3da9175f6dbe" />🥂 Spylt Clone – Award-Winning Drink Website Clone
 Welcome to Spylt Clone, a pixel-perfect and high-performance clone of the award-winning drink brand website. Built with modern web technologies and buttery-smooth animations, this project showcases excellence in UI/UX, responsiveness, and web animation using GSAP and Next.js.
 
+<img width="1920" height="1047" alt="Screenshot 2025-08-06 024635" src="https://github.com/user-attachments/assets/ae98d42b-2f62-4790-8efe-2f7e309f2fde" />
 
 🚀 Features
 🌑 Sleek dark-themed UI
