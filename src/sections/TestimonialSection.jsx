@@ -20,7 +20,7 @@ const TestimonialSection = () => {
         trigger: ".testimonials-section",
         start: "top bottom",
         end: "200% top",
-        scrub: 0.5,
+        scrub: true,
       },
     });
 
@@ -47,7 +47,7 @@ const TestimonialSection = () => {
         trigger: ".testimonials-section",
         start: "10% top",
         end: "200% top",
-        scrub: 1.5,
+        scrub: isMobile ? 0.2 : 1.5,
         pin: true,
       },
     });
