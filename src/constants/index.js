@@ -73,6 +73,20 @@ const cards = [
     name: "Chris",
     img: "/images/p5.png",
   },
+  {
+    src: "/videos/f6.mp4",
+    rotation: "rotate-z-[4deg]",
+    name: "Devante",
+    img: "/images/p6.png",
+    translation: "translate-y-[5%]",
+  },
+  {
+    src: "/videos/f7.mp4",
+    rotation: "rotate-z-[-3deg]",
+    name: "Melisa",
+    img: "/images/p7.png",
+    translation: "translate-y-[10%]",
+  },
 ];
 
 export { flavorlists, nutrientLists, cards };
